@@ -1,0 +1,14 @@
+{
+  "name": "assignment9-users-api",
+  "version": "1.0.0",
+  "description": "Express and MongoDB user API with update and delete operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^8.18.0"
+  }
+}
